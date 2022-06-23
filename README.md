@@ -1,1 +1,0 @@
-# Star-Pattern-In-C
